@@ -1,4 +1,4 @@
-// Generate UNIX Date Library
+// Generate Date Library
 const ComputerTimezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
 const DateLibs = new Date("2023-11-08 10:00");
 

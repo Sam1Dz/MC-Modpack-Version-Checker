@@ -1,8 +1,8 @@
 UI & Resource Packs Update!!
 
-*Start from this update, the License are change from "BSD-3-Clause" to "ARR". Keep in mind, the license still remain "BSD-3-Clause" for previous release (before v1.0.0-beta.3)
+*Start from this update, the License are changed from "BSD-3-Clause" to "ARR"
 
-*Your default control will be resetting after update to this version, due to resource packs changes.
+*Your default control will be reset after update to this version due to resource packs changes.
 
 Mods:
 + ADDED AttributeFix (by Darkhax)
@@ -40,14 +40,15 @@ Updates:
 + Update Woodcuter UI to match "Unique Dark" resource pack (Nemo's Woodcutter)
 + Update Edit Name Tag UI to match "Unique Dark" resource pack (Easy Anvils)
 + Slightly update Inventory HUD+ UI to match "Unique Dark" resource pack (Inventory HUD+)
-+ Slightly update Rerool Enhanment UI to match "Unique Dark" resource pack (Easy Magic)
++ Slightly update Rerool Enchantments UI to match "Unique Dark" resource pack (Easy Magic)
 + Slightly update Loading Screen (Drippy Loading Screen)
 + REMOVED "Easy Shulker Boxes", replaced with "Shulker Box Tooltip"
++ REMOVED "Recipe Book Delight", EMI already have this function
 + REMOVED "Stay True", replaced with "xali's Enhanced Vanilla"
 + REMOVED "3D crops Revamped" and "Farmer's Delight crops 3D". I removed these two resource packs because other crops (for example Flax from Supplementaries or Eggplant from Cultural Delights) do not have 3D crop variant. (well... in other words i remove it for consistency)
 + Updated all the Mods
 
 Fixes:
-+ FIXED "Unique Dark UI" resource packs not being activated by default
++ FIXED "Unique Dark" resource packs not being activated by default
 
 AS ALWAYS, MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING!

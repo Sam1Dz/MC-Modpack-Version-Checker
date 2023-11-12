@@ -1,0 +1,40 @@
+NEW Loading Screen!
+
+WORLD GEN CHANGES!, YOU MAY LOSE YOUR OLD WORLD
+
+Mods:
++ ADDED Chalk: Colorful Addon (by DaFuqs)
++ ADDED Chunks fade in (by kerudion)
++ ADDED Drippy Loading Screen (by keksuccino)
++ ADDED FancyMenu (by keksuccino)
++ ADDED M.R.U (by mineblock11)
++ ADDED Nemo's Woodcutter (by NemoNotFound)
++ ADDED Konkrete (by keksuccino)
++ ADDED Remove Terralith Intro Message (by Stardust)
++ ADDED Variant Crafting Tables (by XanthianZ)
++ REMOVED Just Enough Breeding (Replaced)
++ REMOVED Just Enough Farmer Recipes (Replaced)
++ REMOVED Just Enough Professions (Replaced)
++ REMOVED Just Enough Resources (Replaced)
++ REMOVED Universal Ore (Incompatibility)
+
+Resource Packs:
++ ADDED Unique Dark (by AmongstReality)
+
+Shader Packs:
++ ADDED MakeUp - Ultra Fast (by javiergcim)
+
+Updates:
++ NEW Loading screen when you launch the game! (Drippy Loading Screen)
++ Added compatibility to several items, blocks, and structures to be able trigger advancement (BlazeandCave's Advancements Pack)
++ Cave & Deep cave biome from Terralith is now required for completing "Spelunker" advancement (BlazeandCave's Advancements Pack)
++ Disabling Telemetry (No Chat Reports)
++ Removed "Just Enough Breeding", "Just Enough Farmer Recipes", "Just Enough Professions", and "Just Enough Resources". EMI already have this function (EMI)
++ Removed "Universal Ore". I removed this mod from the modpack due to its incompatibility with one of the advancements "Oresome!" from BlazeandCave's Advancements Pack. (BlazeandCave's Advancements Pack)
++ Updated all the Mods
+
+Fixes:
++ Fixed some advancements not being triggered (BlazeandCave's Advancements Pack)
++ Turning off Append Mod ID, cause duplicate when view on tooltip (EMI)
+
+YOU NEED TO CREATE A NEW WORLD WHEN YOU PLAY THIS VERSION DUE TO WORLD GEN CHANGE! OLD WORLD MIGHT CRASH THE GAME!

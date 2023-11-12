@@ -1,0 +1,53 @@
+UI & Resource Packs Update!!
+
+*Start from this update, the License are change from "BSD-3-Clause" to "ARR". Keep in mind, the license still remain "BSD-3-Clause" for previous release (before v1.0.0-beta.3)
+
+*Your default control will be resetting after update to this version, due to resource packs changes.
+
+Mods:
++ ADDED AttributeFix (by Darkhax)
++ ADDED Better Beds (by Motschen)
++ ADDED Better Compatibility Checker (by Gaz492)
++ ADDED Cave Dust (by LizIsTired)
++ ADDED CraterLib (by hypherionsa)
++ ADDED Make Bubbles Pop (by Tschipcraft)
++ ADDED Modpack Update Checker (by Jab125)
++ ADDED Mouse Tweaks (by YaLTeR)
++ ADDED Neruina - Ticking Entity Fixer (by Bawnorton)
++ ADDED Simple Discord RPC (by hypherionsa)
++ ADDED Shulker Box Tooltip (by MisterPeModder)
++ ADDED StackDeobfuscator (by booky10)
++ ADDED ToolTipFix (by kyrptonaught)
++ ADDED Wakes (by Goby56)
++ REMOVED Easy Shulker Boxes (Replaced)
++ REMOVED Recipe Book Delight (Replaced)
++ REMOVED Paxi (Unused)
+
+Resource Packs:
++ ADDED Fancy Crops (by bebebea_loste)
++ ADDED xali's Enhanced Vanilla (by xalixilax)
++ REMOVED Stay True (Replaced)
++ REMOVED 3D crops Revamped (Inconsistent)
++ REMOVED Farmer's Delight crops 3D (Inconsistent)
+
+Updates:
++ NEW UI!
++ NEW Panorama!
++ NEW Main Menu! (Fancy Menu)
++ Beds now looks fancier (Better Beds)
++ Update Backpack UI to match "Unique Dark" resource pack (Backpacked)
++ Update Advancements UI to match "Unique Dark" resource pack (Better Advancements)
++ Update Woodcuter UI to match "Unique Dark" resource pack (Nemo's Woodcutter)
++ Update Edit Name Tag UI to match "Unique Dark" resource pack (Easy Anvils)
++ Slightly update Inventory HUD+ UI to match "Unique Dark" resource pack (Inventory HUD+)
++ Slightly update Rerool Enhanment UI to match "Unique Dark" resource pack (Easy Magic)
++ Slightly update Loading Screen (Drippy Loading Screen)
++ REMOVED "Easy Shulker Boxes", replaced with "Shulker Box Tooltip"
++ REMOVED "Stay True", replaced with "xali's Enhanced Vanilla"
++ REMOVED "3D crops Revamped" and "Farmer's Delight crops 3D". I removed these two resource packs because other crops (for example Flax from Supplementaries or Eggplant from Cultural Delights) do not have 3D crop variant. (well... in other words i remove it for consistency)
++ Updated all the Mods
+
+Fixes:
++ FIXED "Unique Dark UI" resource packs not being activated by default
+
+AS ALWAYS, MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING!

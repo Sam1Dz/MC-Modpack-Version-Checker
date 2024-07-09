@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+    {
+      "id": "21.1-DEV.2",
+      "releasedAt": 1720560600000
+    },
+    {
+      "id": "21.1",
+      "releasedAt": 987654321098765,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/vanilla-enhance"
+        }
+      }
+    }
+  ]
+}

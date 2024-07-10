@@ -1,1 +1,3 @@
-[TBA]
+First **BETA** Release of Vanilla Enhance Modpack for 1.21 (Tricky Trials)
+
+Why is still on beta?. There is still many mods from 1.20.1 aren't updated to version 1.21, so i still waiting those mod got updated. But don't worry, this modpack is stable enough to play.

@@ -1,0 +1,15 @@
+Hotfix Update!
+
+[Mods]
+-. Removed FancyHealthBar
+-. Updated Architectury API (13.0.3 > 13.0.4)
+-. Updated Balm (21.0.12 > 21.0.13)
+-. Updated Hopo Better Mineshaft (1.2.4 > 1.2.5)
+-. Updated Sound Physics Remastered (1.4.3 > 1.4.4)
+-. Updated TCDCommons API (3.12 > 3.12.1)
+
+[Config]
+-. Disable "Frost Walker Freeze" sound effect, cause crash (Sounds)
+-. Slighty tweaked "Mountain Ranges" generation (Tectonic)
+
+AS ALWAYS, MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING!

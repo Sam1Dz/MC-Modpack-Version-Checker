@@ -10,6 +10,16 @@
           "modrinth": "https://modrinth.com/modpack/vanilla-enhance/version/21.1"
         }
       }
+    },
+    {
+      "id": "21.2",
+      "releasedAt": 1720712700000,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/vanilla-enhance/version/21.2"
+        }
+      },
+      "updateType": "minor"
     }
   ]
 }

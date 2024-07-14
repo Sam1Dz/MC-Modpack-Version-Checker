@@ -1,0 +1,41 @@
+Enhancement Update!
+
+[Fabric Loader now v0.16.0]
+
+*Your option will be reset after you updated to this version due to keybind and resource pack change.
+
+[Mods]
+-. Added Chat Animation (by Ezzenix)
+-. Added Cull Leaves (by Motschen, TeamMidnightDust)
+-. Added Dynamic Crosshair (by Crendgrim)
+-. Added EnhancedVisuals (by CreativeMD, Sonicjumper)
+-. Added Immersive:Tooltip (by yanggx98)
+-. Added Kaleido (by yanggx98)
+-. Added Kiwi (by Snownee)
+-. Added Map Tooltip (by VendoAU)
+-. Added Packet Fixer (by TonimatasDEV)
+-. Added Snow! Real Magic! (by Snownee)
+-. Added Wakes (by Goby56)
+-. Updated Balm (21.0.13 > 21.0.14)
+-. Updated Better Statistics Screen (3.12.1 > 3.12.3)
+-. Updated Collective (7.70 > 7.71)
+-. Updated C2ME (0.2.0.alpha.11.106 > 0.2.0.alpha.11.107)
+-. Updated Forge Config API Port (21.0.1 > 21.0.2)
+-. Updated Inventory HUD+ (3.4.22 > 3.4.23)
+-. Updated Mine Treasure (1.4.3 > 1.4.4)
+-. Updated ModernFix (5.18.7 > 5.18.8)
+-. Updated Puzzles Lib (21.0.12 > 21.0.15)
+-. Updated SeasonHUD (1.8.9 > 1.9.1)
+-. Updated SSPB (3.3.0 > 3.3.1)
+-. Updated Sound Physics Remastered (1.4.4 > 1.4.5)
+
+[Resource Packs]
+-. Added Enchant Icons Colorless (by CountXD)
+-. Added EnhancedVisual Pixelated (by creativemd)
+
+[Config]
+-. Slighty tweaked "Mountain Ranges" generation, ONCE AGAIN (Tectonic)
+-. Now you need to Sneak to insta tree harvest (Tree Harvester)
+-. Hold "V" to activate vein mining (Vein Mining)
+
+AS ALWAYS, MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING!

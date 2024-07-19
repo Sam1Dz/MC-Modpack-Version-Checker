@@ -1,5 +1,5 @@
 Vanilla Enhance for Minecraft 1.21 (Tricky Trials) has been released!
 
-Download the newer version >> https://modrinth.com/modpack/vanilla-enhance/version/21.3
+Download the newer version >> https://modrinth.com/modpack/vanilla-enhance/version/21.4
 
 *Note: Please create a new instance when you want play the newer version!. The world you created from this curent modpack version is incompatible with the newer version and can't be upgraded.

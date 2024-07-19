@@ -33,7 +33,12 @@
     },
     {
       "id": "21.4",
-      "releasedAt": 987654321098765,
+      "releasedAt": 1721374800000,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/vanilla-enhance/version/21.4"
+        }
+      },
       "updateType": "major"
     }
   ]

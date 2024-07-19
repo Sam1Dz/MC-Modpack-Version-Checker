@@ -1,0 +1,65 @@
+MAJOR CHANGES TO WORLD & STRUCTURE GENERATION! + Enhancement Update (Part 2)!
+
+[Fabric API now v0.100.7]
+
+[DEVELOPER NOTES]
+-. Start from this version, Tectonic has been REMOVED from the modpack after doing a playtest since first BETA RELEASE. the reason why it has to be remove because currently it's not fully compatible with Infinity Cave datapack. it makes so much bugs to world generation (even sometimes Infinity Cave region not generating bellow Y: -64) and hard to maintenance the modpack in the future.
+-. Some structure mods has been removed and replaced with another. (See the mods changelog bellow)
+-. For safety, we recommend you to make a new world because the world generation change in this version. You can still playing with the old world but maybe you will encounter some whacky generation (like chunck border) or even the worse, you may encounter a CRASH.
+-. If you choose to updating your old world, make sure to BACKUP THE WORLD and TAKE OFF THE BACKPACK. If you are not take off the backpack, YOU WILL LOSE YOUR BACKPACK. They are safe to re-equip afterwards in "Back" trinket slot.
+-. We deeply apologize because the breaking changes in this version. this will be the first and the last breaking changes to the modpack before stable release, thanks for understanding.
+
+[Mods]
+-. Added AdoraBuild: Structures (by Vlad Hatylo, Kate Hatylo)
+-. Added Better Than Mending (by Legobmw99)
+-. Added Boat Break Fix (by ElocinDev)
+-. Added Break Free (by Potota)
+-. Added Carry On (by Tschipp, Purplicious_Cow)
+-. Added Cut Through (by Fuzs)
+-. Added Damage Numbers (by luavixen)
+-. Added DEUF Refabricated (by ElocinDev)
+-. Added Elytra Trinket (by Travis Martin)
+-. Added FabricBetterGrass (by UltimatChamp, JayemCeekay)
+-. Added Grass Overhaul (by ElocinDev, Luna Pixel Studios)
+-. Added Let Me Despawn (by frikinjay)
+-. Added Liberty's Villagers (by gitsh01)
+-. Added MacOS Input Fixes (by hamarb123)
+-. Added Make Bubbles Pop (by Tschipcraft)
+-. Added Moog's Soaring Structures (by FinnDog)
+-. Added More Culling (by FX - PR0CESS)
+-. Added More Shield Variants (by pnku)
+-. Added Peek (by Max Henkel)
+-. Added ScalableLux (by Spottedleaf, ishland)
+-. Added Trinkets (by Emi, C4)
+-. Updated CreativeCore (2.12.1 > 2.12.4)
+-. Updated EnhancedVisuals (1.8.2 > 1.8.4)
+-. Updated Fabric API (0.100.6 > 0.100.7)
+-. Updated Forge Config API Port (21.0.2 > 21.0.5)
+-. Updated Hopo Better Ruined Portals (1.4.2 > 1.4.3)
+-. Updated Hopo Better Underwater Ruins (1.1.8 > 1.1.9)
+-. Updated Infinity Cave (0.51 > 0.52.5)
+-. Updated Lithostitched (1.2.1 > 1.2.4)
+-. Updated Polymer (0.9.4 > 0.9.5)
+-. Updated Polymorph (1.0.2 > 1.0.4)
+-. Updated Reese's Sodium Options (1.7.2 > 1.7.3)
+-. Updated SeasonHUD-Fabric (1.9.1 > 1.9.3)
+-. Updated Shulker Box Tooltip (5.0.3 > 5.0.4)
+-. Updated Sounds (1.0.1 > 1.1.0)
+-. Updated Text Placeholder API (2.4.0 > 2.4.1)
+-. Updated Visuality (0.7.6 > 0.7.7)
+-. Removed Cull Leaves
+-. Removed Data Loader
+-. Removed DurabilityPlus
+-. Removed Katters Structures - Ambient
+-. Removed Katters Structures - Dungeon
+-. Removed Polytone
+-. Removed SuperBetterGrass
+-. Removed Tectonic
+
+[Resource Packs]
+-. Added MistaThing's Groovy Music Discs (by MistaThing)
+
+[Config]
+-. Backpack now can only be worn by placing it in trinket 'Back' slot
+
+WE RECOMMEND YOU TO MAKE A NEW WORLD IN THIS VERSION. IF YOU UPDATE YOUR OLD WORLD, MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING!

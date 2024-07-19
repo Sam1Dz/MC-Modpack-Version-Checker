@@ -30,6 +30,11 @@
         }
       },
       "updateType": "minor"
+    },
+    {
+      "id": "21.4",
+      "releasedAt": 987654321098765,
+      "updateType": "major"
     }
   ]
 }

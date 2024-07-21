@@ -1,0 +1,34 @@
+Regular Update
+
+*Your option will be reset after you updated to this version due to resource packs change.
+
+[Mods]
+-. Added More Loom Variants (by pnku, LieOnLion)
+-. Added Your Reputation (WTHIT) (by Aton-Kish)
+-. Updated Better Statistics Screen (3.12.3 > 3.12.4)
+-. Updated Cardinal Components API (6.1.0 > 6.1.1)
+-. Updated Cubes Without Borders (2.1.0 > 2.1.1)
+-. Updated Polymer (0.9.5 > 0.9.6)
+-. Updated Puzzles Lib (21.0.15 > 21.0.17)
+-. Updated ScalableLux (0.1.0.beta1 > 0.1.0.rc1)
+-. Updated SeasonHUD-Fabric (1.9.3 > 1.9.4)
+-. Updated Sounds (1.1.0 > 1.1.1)
+-. Updated TCDCommons API (3.12.1 > 3.12.2)
+
+[Resource Packs]
+-. Updated Better Flame Particles
+-. Removed Simple Grass Flowers
+
+[Shader Packs]
+-. Added Vanilla Plus Shader
+-. Removed MakeUp - Ultra Fast
+
+[Config]
+-. Change the default "Render Distance" and "Simulation Distance" to 10
+-. Change "Enable Animation" in "Better F3" config to False
+-. Change 7 Settings in "Peek" config
+-. Change "WTHIT" Y Offset to 0
+-. Resetting "FPS Reducer" config to default setting
+-. Fixing "Vein Mining" Cannot be activated
+
+AS ALWAYS, MAKE SURE TO BACKUP YOUR WORLD BEFORE UPDATING!

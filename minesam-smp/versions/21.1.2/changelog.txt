@@ -1,4 +1,4 @@
-# Fabric loader sekarang versi 0.16.3 dengan API versi 0.103.0!
+**Fabric loader sekarang versi 0.16.3 dengan API versi 0.103.0!**
 
 ## Fitur Baru!
 

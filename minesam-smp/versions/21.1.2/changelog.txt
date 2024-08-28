@@ -1,8 +1,8 @@
-## _Fabric loader sekarang versi 0.16.3 dengan API versi 0.103.0!_
+## *Fabric loader sekarang versi 0.16.3 dengan API versi 0.103.0!*
 
 ## Fitur Baru!
 
-Main menu mendapat tampilan baru!. _Minecraft Realm_ dihapus karena tidak diperlukan, menambahkan info update modpack _(Tombol update diatas pilihan bahasa)_ untuk mengecek apahkah ada update pada modpack. ini diperlukan di masa mendatang jika seandainya ada mod yang berstatus _Breaking Changes/Major/Peubahan versi Minecraft_.
+Main menu mendapat tampilan baru!. *Minecraft Realm* dihapus karena tidak diperlukan, menambahkan info update modpack *(Tombol update diatas pilihan bahasa)* untuk mengecek apahkah ada update pada modpack. ini diperlukan di masa mendatang jika seandainya ada mod yang berstatus *Breaking Changes/Major/Peubahan versi Minecraft*.
 
 ### Daftar Perubahan
 
@@ -11,15 +11,15 @@ Main menu mendapat tampilan baru!. _Minecraft Realm_ dihapus karena tidak diperl
 - Menambahkan **[FancyMenu](https://modrinth.com/mod/fancymenu)** *(oleh keksuccino)*
 - Menambahkan **[Konkrete](https://modrinth.com/mod/konkrete)** *(oleh keksuccino)*
 - Menambahkan **[Melody](https://modrinth.com/mod/melody)** *(oleh keksuccino)*
-- Mengupdate **[Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)** (6.2 >> 6.2.2)
-- Mengupdate **[fast-ip-ping](https://modrinth.com/mod/fast-ip-ping)** (1.0.3 >> 1.0.4)
-- Mengupdate **[Mod Menu](https://modrinth.com/mod/modmenu)** (11.0.1 >> 11.0.2)
+- Mengupdate **[Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)**
+- Mengupdate **[fast-ip-ping](https://modrinth.com/mod/fast-ip-ping)**
+- Mengupdate **[Mod Menu](https://modrinth.com/mod/modmenu)**
 - Menghapus **[Main Menu Credits](https://modrinth.com/mod/main-menu-credits)**
 
 **(Klien & Server)**
 
 - Menambahkan **[Modpack Update Checker](https://modrinth.com/mod/modpack-update-checker)** *(oleh Jab125)*
-- Mengupdate **[Alternate Current](https://modrinth.com/mod/alternate-current)** (1.8.2 >> 1.9.0)
-- Mengupdate **[Better Statistics Screen](https://modrinth.com/mod/better-stats)** (3.13.1 >> 3.13.2)
-- Mengupdate **[Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric)** (0.3.0.alpha.0.150 >> 0.3.0.alpha.0.152)
-- Mengupdate **[Fabric API](https://modrinth.com/mod/fabric-api)** (0.102.1 >> 0.103.0)
+- Mengupdate **[Alternate Current](https://modrinth.com/mod/alternate-current)**
+- Mengupdate **[Better Statistics Screen](https://modrinth.com/mod/better-stats)**
+- Mengupdate **[Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric)**
+- Mengupdate **[Fabric API](https://modrinth.com/mod/fabric-api)**

@@ -1,0 +1,40 @@
+## Fitur Baru!
+
+Menu informasi player dapat tampilan baru!. sekarang menampilkan info lebih lengkap seperti **Ping, Waktu PC, Versi Server, Server MSPT, dan Server Alokasi RAM**.
+
+Untuk mengeceknya kalian bisa pencet **Tab** pada keyboard.
+
+![update_2111_01](https://i.imgur.com/EKJVUyv.png)
+
+### Daftar Perubahan
+
+**(Hanya Klien)**
+
+- Mengupdate **[Effect Timer Plus](https://modrinth.com/mod/effecttimerplus)** (2.2.0 > 2.2.1)
+- Mengupdate **[Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)** (1.12.0 > 1.12.1)
+- Mengupdate **[WTHIT](https://modrinth.com/mod/wthit)** (12.3.0 > 12.4.0)
+- Mengupdate **[Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)** _(1.38.8 > 1.39.0)_
+- Menghapus **[Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric)**
+
+**(Klien & Server)**
+
+- Mengupdate **[Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric)** (0.3.0.alpha.0.149 > 0.3.0.alpha.0.150)
+- Mengupdate **[ModernFix](https://modrinth.com/mod/modernfix)** (5.19.2 > 5.19.3)
+- Mengupdate **[ThreadTweak](https://modrinth.com/mod/threadtweak)** (0.1.4 > 0.1.5)
+
+**(Hanya Server)**
+
+- Menambahkan **[Disconnect Packet Fix](https://modrinth.com/mod/disconnect-packet-fix)** _(oleh ascpixi)_
+  - Mengatasi bug [MC-271325](https://bugs.mojang.com/browse/MC-271325) pada server Fabric (memperbaiki "error sending packet clientbound/minecraft:disconnect")
+- Menambahkan **[spark](https://modrinth.com/mod/spark)** _(oleh lucko)_
+  - spark adalah profiler kinerja untuk klien, server, dan proxy Minecraft.
+- Menambahkan **[TAB](https://modrinth.com/plugin/tab-was-taken)** _(oleh NEZNAMY)_
+  - Solusi lengkap yang berfungsi
+
+### Pengaturan & Konfigurasi
+
+- Mengupdate konfigurasi shaders "Complementary Reimagined + Euphoria Patches"
+
+### Perbaikan Bug
+
+- Memperbaiki beberapa eksploit dari eksternal server

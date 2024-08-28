@@ -1,0 +1,29 @@
+## _Fabric loader sekarang versi 0.16.3 dengan API versi 0.103.0!_
+
+## Fitur Baru!
+
+Main menu mendapat tampilan baru!. _Minecraft Realm_ dihapus karena tidak diperlukan, menambahkan info update modpack _(Tombol update diatas pilihan bahasa)_ untuk mengecek apahkah ada update pada modpack. ini diperlukan di masa mendatang jika seandainya ada mod yang berstatus _Breaking Changes/Major/Peubahan versi Minecraft_.
+
+### Daftar Perubahan
+
+**(Hanya Klien)**
+
+- Menambahkan **[FancyMenu](https://modrinth.com/mod/fancymenu)** _(oleh keksuccino)_
+  - Sesuaikan menu Minecraft dengan mudah!
+- Menambahkan **[Konkrete](https://modrinth.com/mod/konkrete)** _(oleh keksuccino)_
+  - Hanya mod perpustakaan membosankan lainnya
+- Menambahkan **[Melody](https://modrinth.com/mod/melody)** _(oleh keksuccino)_
+  - Mod pustaka berbasis OpenAL untuk memutar musik latar belakang
+- Mengupdate **[Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)** (6.2 > 6.2.2)
+- Mengupdate **[fast-ip-ping](https://modrinth.com/mod/fast-ip-ping)** (1.0.3 > 1.0.4)
+- Mengupdate **[Mod Menu](https://modrinth.com/mod/modmenu)** (11.0.1 > 11.0.2)
+- Menghapus **[Main Menu Credits](https://modrinth.com/mod/main-menu-credits)**
+
+**(Klien & Server)**
+
+- Menambahkan **[Modpack Update Checker](https://modrinth.com/mod/modpack-update-checker)** _(oleh Jab125)_
+  - Pemeriksa pembaruan yang dirancang untuk modpack!
+- Mengupdate **[Alternate Current](https://modrinth.com/mod/alternate-current)** (1.8.2 > 1.9.0)
+- Mengupdate **[Better Statistics Screen](https://modrinth.com/mod/better-stats)** (3.13.1 > 3.13.2)
+- Mengupdate **[Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric)** (0.3.0.alpha.0.150 > 0.3.0.alpha.0.152)
+- Mengupdate **[Fabric API](https://modrinth.com/mod/fabric-api)** (0.102.1 > 0.103.0)

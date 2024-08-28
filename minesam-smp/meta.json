@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+    {
+      "id": "21.1.0",
+      "releasedAt": 1724371200000,
+      "promotions": {
+        "downloads": {
+          "generic": "https://drive.google.com/file/d/1cWtjxnqixXzIb6y7Q8wQnvkPGJT67IBh/view?usp=sharing"
+        }
+      }
+    },
+    {
+      "id": "21.1.1",
+      "releasedAt": 1724544000000,
+      "promotions": {
+        "downloads": {
+          "generic": "https://drive.google.com/file/d/11ySYcB6PKKFJvLF-GEY-uLia4LCFUAsf/view?usp=sharing"
+        }
+      },
+      "updateType": "minor"
+    },
+    {
+      "id": "21.1.2",
+      "releasedAt": 1724889600000,
+      "updateType": "minor"
+    }
+  ]
+}

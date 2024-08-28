@@ -24,6 +24,11 @@
     {
       "id": "21.1.2",
       "releasedAt": 1724889600000,
+      "promotions": {
+        "downloads": {
+          "generic": "https://drive.google.com/file/d/1dBURvsygNAsg06VRSesQ2TzaDibMoEMH/view?usp=sharing"
+        }
+      },
       "updateType": "minor"
     }
   ]

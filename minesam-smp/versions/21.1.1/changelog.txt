@@ -1,6 +1,6 @@
 ## Fitur Baru!
 
-Menu informasi player dapat tampilan baru!. sekarang menampilkan info lebih lengkap seperti **Ping, Waktu PC, Versi Server, Server MSPT, dan Server Alokasi RAM**.
+Menu informasi player dapat tampilan baru!. sekarang menampilkan info lebih lengkap seperti **Health, Ping, Waktu PC, Versi Server, Server MSPT, dan Server Alokasi RAM**.
 
 Untuk mengeceknya kalian bisa pencet **Tab** pada keyboard.
 

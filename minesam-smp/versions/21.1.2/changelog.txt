@@ -2,7 +2,7 @@
 
 ## Fitur Baru!
 
-Main menu mendapat tampilan baru!. *Minecraft Realm* dihapus karena tidak diperlukan, menambahkan info update modpack *(Tombol update diatas pilihan bahasa)* untuk mengecek apahkah ada update pada modpack. ini diperlukan di masa mendatang jika seandainya ada mod yang berstatus *Breaking Changes/Major/Peubahan versi Minecraft*.
+Tampilan Main menu seikit diubah. *Minecraft Realm* dihapus karena tidak diperlukan, menambahkan info update modpack *(Tombol update diatas pilihan bahasa)* untuk mengecek apahkah ada update pada modpack. ini diperlukan di masa mendatang jika seandainya ada mod yang berstatus *Breaking Changes/Major/Peubahan versi Minecraft*.
 
 ![update_2112_01](https://i.imgur.com/crc2Jw9.png)
 ![update_2112_02](https://i.imgur.com/CyrT1bq.png)
@@ -26,3 +26,8 @@ Main menu mendapat tampilan baru!. *Minecraft Realm* dihapus karena tidak diperl
 - Mengupdate **[Better Statistics Screen](https://modrinth.com/mod/better-stats)**
 - Mengupdate **[Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric)**
 - Mengupdate **[Fabric API](https://modrinth.com/mod/fabric-api)**
+
+### Pengaturan & Konfigurasi
+
+- Menghilangkan informasi Health pada menu informasi server
+- Informasi alokasi pada menu informasi sekarang dibuat lebih jelas

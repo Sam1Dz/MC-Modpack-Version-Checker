@@ -39,6 +39,7 @@ Enchanted book sekarang memiliki texture-nya masing-masing supaya lebih bisa dib
 - Mengupdate **[Puzzle](https://modrinth.com/mod/puzzle)** **[FO]**
 - Menghapus **[Cave Dust](https://modrinth.com/mod/cave-dust)**
 - Menghapus **[Falling Leaves](https://modrinth.com/mod/fallingleaves)**
+- Menghapus **[Immersive UI](https://modrinth.com/mod/immersive-ui/versions)**
 - Menghapus **[Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop)**
 - Menghapus **[Satin Free Wakes](https://modrinth.com/mod/satin-free-wakes)**
 

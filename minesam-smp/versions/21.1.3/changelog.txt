@@ -1,6 +1,5 @@
-**Fabric loader sekarang versi 0.16.5 dengan API versi 0.104.0!**
-
-**PERHATIAN! Pengaturan yang kamu rubah sepperti resource packs atau konfigurasi mods akan direset karena perubahan!**
++ **Fabric loader sekarang versi 0.16.5 dengan API versi 0.104.0!**
++ **PERHATIAN! Pengaturan yang kamu rubah sepperti resource packs atau konfigurasi mods akan direset karena perubahan!**
 
 ## Fitur Baru dan Penyesuaian!
 
@@ -20,14 +19,14 @@ Enchanted book sekarang memiliki texture-nya masing-masing supaya lebih bisa dib
 
 ## Daftar Perubahan
 
-_\*Note: Daftar perubahan dengan tanda **[FO]** berarti dari sisi Fabulously Optimized, sedangkan **[SO]** berarti dari sisi Simply Optimized._
+*Note: Daftar perubahan dengan tanda **[FO]** berarti dari sisi Fabulously Optimized, sedangkan **[SO]** berarti dari sisi Simply Optimized.
 
 **(Hanya Klien)**
 
-- Menambahkan **[CIT Resewn](https://modrinth.com/mod/cit-resewn)** _(oleh shsupercm)_ **[FO]**
-- Menambahkan **[oωo (owo-lib)](https://modrinth.com/mod/owo-lib)** _(oleh Wisp Forest Organization)_
-- Menambahkan **[Particular](https://modrinth.com/mod/particular)** _(oleh Chai)_
-- Menambahkan **[Wakes](https://modrinth.com/mod/wakes)** _(oleh Goby56)_
+- Menambahkan **[CIT Resewn](https://modrinth.com/mod/cit-resewn)** (oleh shsupercm) **[FO]**
+- Menambahkan **[oωo (owo-lib)](https://modrinth.com/mod/owo-lib)** (oleh Wisp Forest Organization)
+- Menambahkan **[Particular](https://modrinth.com/mod/particular)** (oleh Chai)
+- Menambahkan **[Wakes](https://modrinth.com/mod/wakes)** (oleh Goby56)
 - Mengupdate **[AmbientSounds](https://modrinth.com/mod/ambientsounds)**
 - Mengupdate **[Chat Heads](https://modrinth.com/mod/chat-heads)**
 - Mengupdate **[CreativeCore](https://modrinth.com/mod/creativecore)**
@@ -45,8 +44,8 @@ _\*Note: Daftar perubahan dengan tanda **[FO]** berarti dari sisi Fabulously Opt
 
 **(Klien & Server)**
 
-- Menambahkan **[ScalableLux](https://modrinth.com/mod/scalablelux)** _(oleh ishland)_
-- Menambahkan **[Visual Overhaul](https://modrinth.com/mod/visual-overhaul)** _(oleh Motschen)_
+- Menambahkan **[ScalableLux](https://modrinth.com/mod/scalablelux)** (oleh ishland)
+- Menambahkan **[Visual Overhaul](https://modrinth.com/mod/visual-overhaul)** (oleh Motschen)
 - Mengupdate **[Balm](https://modrinth.com/mod/balm)**
 - Mengupdate **[Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric)** **[SO]**
 - Mengupdate **[Debugify](https://modrinth.com/mod/debugify)** **[FO]**
@@ -59,9 +58,9 @@ _\*Note: Daftar perubahan dengan tanda **[FO]** berarti dari sisi Fabulously Opt
 
 ### Resource Packs
 
-- Menambahkan **[Animated Items](https://modrinth.com/resourcepack/animated-items)** _(oleh vrabb-gh)_
-- Menambahkan **[Animated Ore](https://modrinth.com/resourcepack/animated-ore)** _(oleh gitq)_
-- Menambahkan **[Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)** _(oleh mythitorium)_
+- Menambahkan **[Animated Items](https://modrinth.com/resourcepack/animated-items)** (oleh vrabb-gh)
+- Menambahkan **[Animated Ore](https://modrinth.com/resourcepack/animated-ore)** (oleh gitq)
+- Menambahkan **[Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)** (oleh mythitorium)
 - Menghapus **[Emissive TXF](https://modrinth.com/resourcepack/emissive-txf)**
 - Menghapus **[MistaThing's Groovy Music Discs](https://modrinth.com/resourcepack/mistathings-groovier-discs)**
 

@@ -30,6 +30,11 @@
         }
       },
       "updateType": "minor"
+    },
+    {
+      "id": "21.1.3",
+      "releasedAt": 987654321098765,
+      "updateType": "major"
     }
   ]
 }

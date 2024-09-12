@@ -1,0 +1,72 @@
+**Fabric loader sekarang versi 0.16.5 dengan API versi 0.104.0!**
+
+**PERHATIAN! Pengaturan yang kamu rubah sepperti resource packs atau konfigurasi mods akan direset karena perubahan!**
+
+## Fitur Baru dan Penyesuaian!
+
+### 1. Performa lebih ditingkatkan, baik client maupun server
+
+Modpack MineSam SMP sekarang dibangun ulang mengikuti konfigurasi dari 2 modpack optimisasi terbaik yang ada di modrinth, yaitu **[Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized)** dan **[Simply Optimized](https://modrinth.com/modpack/sop)**
+
+### 2. Efek Visual baru
+
+Menambahkan beberapa efek visual baru, membuat gameplay serasa lebih bervariasi.
+
+### 3. Texture Enchanted Books
+
+Enchanted book sekarang memiliki texture-nya masing-masing supaya lebih bisa dibedakan jika kalian memiliki banyak enchanted book
+
+![update_2112_01](https://i.imgur.com/0ZBZAVE.png)
+
+## Daftar Perubahan
+
+_\*Note: Daftar perubahan dengan tanda **[FO]** berarti dari sisi Fabulously Optimized, sedangkan **[SO]** berarti dari sisi Simply Optimized._
+
+**(Hanya Klien)**
+
+- Menambahkan **[CIT Resewn](https://modrinth.com/mod/cit-resewn)** _(oleh shsupercm)_ **[FO]**
+- Menambahkan **[oωo (owo-lib)](https://modrinth.com/mod/owo-lib)** _(oleh Wisp Forest Organization)_
+- Menambahkan **[Particular](https://modrinth.com/mod/particular)** _(oleh Chai)_
+- Menambahkan **[Wakes](https://modrinth.com/mod/wakes)** _(oleh Goby56)_
+- Mengupdate **[AmbientSounds](https://modrinth.com/mod/ambientsounds)**
+- Mengupdate **[Chat Heads](https://modrinth.com/mod/chat-heads)**
+- Mengupdate **[CreativeCore](https://modrinth.com/mod/creativecore)**
+- Mengupdate **[Entity Model Features](https://modrinth.com/mod/entity-model-features)** **[FO]**
+- Mengupdate **[Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)** **[FO]**
+- Mengupdate **[Entity Culling](https://modrinth.com/mod/entityculling)** **[FO] [SO]**
+- Mengupdate **[Hey Wiki](https://modrinth.com/mod/hey-wiki)**
+- Mengupdate **[ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)** **[FO] [SO]**
+- Mengupdate **[Not Enough Animations](https://modrinth.com/mod/not-enough-animations)**
+- Mengupdate **[Puzzle](https://modrinth.com/mod/puzzle)** **[FO]**
+- Menghapus **[Cave Dust](https://modrinth.com/mod/cave-dust)**
+- Menghapus **[Falling Leaves](https://modrinth.com/mod/fallingleaves)**
+- Menghapus **[Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop)**
+- Menghapus **[Satin Free Wakes](https://modrinth.com/mod/satin-free-wakes)**
+
+**(Klien & Server)**
+
+- Menambahkan **[ScalableLux](https://modrinth.com/mod/scalablelux)** _(oleh ishland)_
+- Menambahkan **[Visual Overhaul](https://modrinth.com/mod/visual-overhaul)** _(oleh Motschen)_
+- Mengupdate **[Balm](https://modrinth.com/mod/balm)**
+- Mengupdate **[Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric)** **[SO]**
+- Mengupdate **[Debugify](https://modrinth.com/mod/debugify)** **[FO]**
+- Mengupdate **[Fabric API](https://modrinth.com/mod/fabric-api)** **[FO] [SO]**
+- Mengupdate **[GlitchCore](https://modrinth.com/mod/glitchcore)**
+- Mengupdate **[Leaves Us In Peace](https://modrinth.com/mod/leaves-us-in-peace)**
+- Mengupdate **[Serene Seasons](https://modrinth.com/mod/serene-seasons)**
+- Mengupdate **[WTHIT](https://modrinth.com/mod/wthit)**
+- Mengupdate **[Your Reputation (WTHIT)](https://modrinth.com/mod/your-reputation-wthit)**
+
+### Resource Packs
+
+- Menambahkan **[Animated Items](https://modrinth.com/resourcepack/animated-items)** _(oleh vrabb-gh)_
+- Menambahkan **[Animated Ore](https://modrinth.com/resourcepack/animated-ore)** _(oleh gitq)_
+- Menambahkan **[Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)** _(oleh mythitorium)_
+- Menghapus **[Emissive TXF](https://modrinth.com/resourcepack/emissive-txf)**
+- Menghapus **[MistaThing's Groovy Music Discs](https://modrinth.com/resourcepack/mistathings-groovier-discs)**
+
+### Pengaturan & Konfigurasi
+
+- Beberapa konfigurasi disesuaikan ulang mengikuti konfigurasi **[Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized)** dan **[Simply Optimized](https://modrinth.com/modpack/sop)**
+- Koordinat exploration map sekarang di hide
+- Button dari mod **NoChatReports** pada menu multiplayer dihilangkan

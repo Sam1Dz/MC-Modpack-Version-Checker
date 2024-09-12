@@ -1,9 +1,9 @@
 **Fabric loader sekarang versi 0.16.5 dengan API versi 0.104.0!**
-PERHATIAN! Pengaturan yang kamu rubah sepperti resource packs atau konfigurasi mods akan direset karena perubahan!
+(PERHATIAN! Pengaturan yang kamu rubah sepperti resource packs atau konfigurasi mods akan direset karena perubahan!)
 
 ## Fitur Baru dan Penyesuaian!
 
-### 1. Performa lebih ditingkatkan, baik client maupun server
+### 1. Performa lebih ditingkatkan
 
 Modpack MineSam SMP sekarang dibangun ulang mengikuti konfigurasi dari 2 modpack optimisasi terbaik yang ada di modrinth, yaitu **[Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized)** dan **[Simply Optimized](https://modrinth.com/modpack/sop)**
 

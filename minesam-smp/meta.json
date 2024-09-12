@@ -33,8 +33,13 @@
     },
     {
       "id": "21.1.3",
-      "releasedAt": 987654321098765,
-      "updateType": "major"
+      "releasedAt": 1726135200000,
+      "promotions": {
+        "downloads": {
+          "generic": "https://drive.google.com/file/d/1jLaJriOtfjSsuBJvHX9_G69E85LacyBD/view?usp=sharing"
+        }
+      },
+      "updateType": "minor_breaking"
     }
   ]
 }

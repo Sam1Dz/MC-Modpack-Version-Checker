@@ -1,6 +1,6 @@
 // Generate Date Library
 const CurrentTimezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
-const DateLibs = new Date("2024-08-29 07:00");
+const DateLibs = new Date("2024-09-12 17:00");
 
 function generateUnixDate() {
   return DateLibs.valueOf();

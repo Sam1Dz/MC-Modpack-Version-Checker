@@ -1,4 +1,4 @@
-+ **Fabric loader sekarang versi 0.16.5 dengan API versi 0.104.0!**
+**Fabric loader sekarang versi 0.16.5 dengan API versi 0.104.0!**
 PERHATIAN! Pengaturan yang kamu rubah sepperti resource packs atau konfigurasi mods akan direset karena perubahan!
 
 ## Fitur Baru dan Penyesuaian!

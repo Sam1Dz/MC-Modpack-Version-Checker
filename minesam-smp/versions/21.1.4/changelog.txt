@@ -48,4 +48,4 @@ Pillager, Evoker, Ravager mendapat texture baru (Texture berubah sesuai bioma di
 ### Pengaturan & Konfigurasi
 
 - Merapikan nama beberapa resource packs
-- _Show Coordinates_ dan _Show FPS Extended_ sekarang secara default di **OFF**
+- Show Coordinates dan Show FPS Extended sekarang secara default di **OFF**

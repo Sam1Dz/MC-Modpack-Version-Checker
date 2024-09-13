@@ -1,0 +1,51 @@
+(PERHATIAN! Pengaturan yang kamu rubah seperti resource packs atau konfigurasi mods akan direset karena perubahan!)
+
+## Fitur Baru!
+
+### 1. Minimap
+
+Menjelajah sekarang lebih mudah karena pada versi kali ini sudah terintegrasi dengan Minimap. Kamu sekarang bisa menambahkan pin pada map kamu untuk menandai lokasi yang ingin kamu jelajahi atau tandai.
+
+![update_2114_01](https://i.imgur.com/EOPDj5a.png)
+![update_2114_02](https://i.imgur.com/z7h6MtN.png)
+
+### 2. Data Driven Aksesoris
+
+Ada 2 Slot khusus baru pada Inventory, yaitu slot untuk Elytra dan Totem of Undying.
+
+![update_2114_03](https://i.imgur.com/gzGQWfo.png)
+![update_2114_04](https://i.imgur.com/SFBTMME.png)
+
+### 3. Model & Texture baru
+
+Pillager, Evoker, Ravager mendapat texture baru (Texture berubah sesuai bioma dia spawn). \*Anyway, Redstone dapet texture baru juga :))
+
+![better_illagers](https://media.forgecdn.net/attachments/528/968/better-illagers-thumbnail.png)
+![update_2114_05](https://i.imgur.com/CqD3X2U.png)
+
+## Daftar Perubahan
+
+**(Hanya Klien)**
+
+- Menambahkan **[Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)** (oleh Fuzs)
+- Menambahkan **[SeasonHUD-Fabric](https://modrinth.com/mod/seasonhud-fabric)** (oleh lanAnderson)
+- Menambahkan **[Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)** (oleh thexaero)
+- Mengupdate **[AmbientSounds](https://modrinth.com/mod/ambientsounds)**
+- Menghapus **[GUI Clock](https://modrinth.com/mod/gui-clock)**
+
+**(Klien & Server)**
+
+- Menambahkan **[Charm of Undying](https://modrinth.com/mod/charm-of-undying)** (oleh TheIllusiveC4)
+- Menambahkan **[Elytra Slot](https://modrinth.com/mod/elytra-slot)** (oleh TheIllusiveC4)
+- Menambahkan **[Trinkets](https://modrinth.com/mod/trinkets)** (oleh Emi)
+
+### Resource Packs
+
+- Menambahkan **[Better Illagers](https://www.curseforge.com/minecraft/texture-packs/better-illagers)** (oleh creepermax123)
+- Menambahkan **[Better Illagers x Fresh Animations](https://www.curseforge.com/minecraft/texture-packs/better-illagers-x-fresh-animations)** (oleh creepermax123)
+- Mengupdate **[Vanilla Tweaks](https://vanillatweaks.net)**
+
+### Pengaturan & Konfigurasi
+
+- Merapikan nama beberapa resource packs
+- _Show Coordinates_ dan _Show FPS Extended_ sekarang secara default di **OFF**

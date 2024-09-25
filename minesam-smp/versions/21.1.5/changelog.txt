@@ -43,6 +43,10 @@
 - Menghapus **[Better Illagers](https://www.curseforge.com/minecraft/texture-packs/better-illagers)**
 - Menghapus **[Better Illagers x Fresh Animations](https://www.curseforge.com/minecraft/texture-packs/better-illagers-x-fresh-animations)**
 
+### Shader Packs
+
+- Mengupdate **[Complementary Shaders](https://modrinth.com/shader/complementary-reimagined)**
+
 ### Pengaturan & Konfigurasi
 
 - Mengaktifkan natives acceleration pada c2me untuk sedikit meningkatkan performa

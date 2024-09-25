@@ -1,0 +1,49 @@
+**Fabric API sekarang versi 0.105.0!**
+(PERHATIAN! Pengaturan yang kamu rubah seperti resource packs atau konfigurasi mods akan direset karena perubahan!)
+
+## Daftar Perubahan
+
+*Note: Daftar perubahan dengan tanda **[FO]** berarti dari sisi Fabulously Optimized, sedangkan **[SO]** berarti dari sisi Simply Optimized.
+
+**(Hanya Klien)**
+
+- Mengupdate **[AmbientSounds](https://modrinth.com/mod/ambientsounds)**
+- Mengupdate **[Chat Heads](https://modrinth.com/mod/chat-heads)**
+- Mengupdate **[CIT Resewn](https://modrinth.com/mod/cit-resewn)** **[FO]**
+- Mengupdate **[Cloth Config API](https://modrinth.com/mod/cloth-config)** **[FO]**
+- Mengupdate **[CreativeCore](https://modrinth.com/mod/creativecore)**
+- Mengupdate **[Effect Timer Plus](https://modrinth.com/mod/effecttimerplus)**
+- Mengupdate **[Entity Model Features](https://modrinth.com/mod/entity-model-features)** **[FO]**
+- Mengupdate **[Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)** **[FO]**
+- Mengupdate **[Euphoria Patches](https://modrinth.com/mod/euphoria-patches)**
+- Mengupdate **[Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)** **[FO]**
+- Mengupdate **[Fast IP Ping](https://modrinth.com/mod/fast-ip-ping)**
+- Mengupdate **[Hey Wiki](https://modrinth.com/mod/hey-wiki)**
+- Mengupdate **[oωo (owo-lib)](https://modrinth.com/mod/owo-lib)**
+- Mengupdate **[OptiGUI](https://modrinth.com/mod/optigui)** **[FO]**
+- Mengupdate **[Puzzle](https://modrinth.com/mod/puzzle)** **[FO]**
+- Mengupdate **[SeasonHUD](https://modrinth.com/mod/seasonhud-fabric)**
+- Mengupdate **[Sounds](https://modrinth.com/mod/sound)**
+- Mengupdate **[Shulker Box Tooltip](https://modrinth.com/mod/shulkerboxtooltip)**
+
+**(Klien & Server)**
+
+- Mengupdate **[Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric)** **[SO]**
+- Mengupdate **[Fabric API](https://modrinth.com/mod/fabric-api)** **[FO][SO]**
+- Mengupdate **[Geophilic](https://modrinth.com/datapack/geophilic)**
+- Mengupdate **[Leaves Us In Peace](https://modrinth.com/mod/leaves-us-in-peace)**
+- Mengupdate **[Lithium](https://modrinth.com/mod/lithium)** **[FO][SO]**
+- Mengupdate **[Serene Seasons](https://modrinth.com/mod/serene-seasons)**
+- Mengupdate **[Very Many Players](https://modrinth.com/mod/vmp-fabric)** **[SO]**
+- Mengupdate **[WTHIT](https://modrinth.com/mod/wthit)**
+
+### Resource Packs
+
+- Mengupdate **[Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)**
+- Menghapus **[Better Illagers](https://www.curseforge.com/minecraft/texture-packs/better-illagers)**
+- Menghapus **[Better Illagers x Fresh Animations](https://www.curseforge.com/minecraft/texture-packs/better-illagers-x-fresh-animations)**
+
+### Pengaturan & Konfigurasi
+
+- Mengaktifkan natives acceleration pada c2me untuk sedikit meningkatkan performa
+- Memperbaiki konfigurasi pada Entity Texture Features
